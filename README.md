@@ -1,5 +1,7 @@
 # remote-task
 
+Please create `.env` file in the root directory based on the `.env.example` file.
+
 ## List all files in an S3 Bucket
 
 Run `npx ts-node ./scripts/list-all.ts`
